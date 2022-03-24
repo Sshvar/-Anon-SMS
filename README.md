@@ -61,7 +61,7 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/Sshvar/Anon-SMS.git
 cd Anon-SMS
 bash Run.sh
 ```
@@ -78,24 +78,24 @@ Commands below provide instructions for Debian-based systems.
 To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/Sshvar/Anon-SMS.git
 cd Anon-SMS
 sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
 
-- **HACK3RY2J**<br>
-[@] Mail At: HACK3RY2J@gmail.com
+- **Sshvar**<br>
+[@] Mail At: HACKERSCRACKER6@gmail.com
 
 # CONTACT ME:
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: HACK3RY2J@gmail.com
-      YouTube Channel: https://www.youtube.com/c/PandaHackers
+                 Mail: HACKERSCRACKER6@gmail.com
+      YouTube Channel: https://www.youtube.com/channel/UCTrXHB_H8u_9WRc5oX5w0Wg
 ```
 
-<a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://www.henryhacks.blogspot.com">Check Out Our Blog Page</a><br>
-<a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a>
+<a href="https://www.youtube.com/channel/UCTrXHB_H8u_9WRc5oX5w0Wg">Check Out Our YouTube Channel</a><br>
+<a href="https://www.Sshvar.blogspot.com">Check Out Our Blog Page</a><br>
+<a href="https://t.me/Sshvar">Check Out Our Telegram Discussion</a>
