@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: HACK3RY2J
+# Author: Sshvar
 # Description: Send anonymous text messages
 
 # Colors
@@ -30,9 +30,9 @@ function banner() {
      ██        ▒▒██                                    V1.4██▒▒        ██
      ██          ▒▒████████████████████████████████████████▒▒          ██
      ██            ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒            ██
-     ██     Coded by: https://github.com/HACK3RY2J                     ██
-     ██     Youtube : https://www.youtube.com/c/PandaHackers           ██
-     ██   Instagram : https://instagram.com/Panda_Hackers_Official     ██
+     ██     Coded by: https://github.com/Sshvar                        ██
+     ██   Youtube : https://www.youtube.com/c/UCTrXHB_H8u_9WRc5oX5w0Wg ██
+     ██   Instagram : https://instagram.com/Sshvar                     ██
      ██                                                                ██
      ████████████████████████████████████████████████████████████████████
      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ "
